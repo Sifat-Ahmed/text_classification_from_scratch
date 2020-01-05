@@ -1,0 +1,9 @@
+KNN - hamming - 1 Accuracy 0.5 on 50 Samples. 
+KNN - hamming - 3 Accuracy 0.42 on 50 Samples. 
+KNN - hamming - 5 Accuracy 0.34 on 50 Samples. 
+KNN - euclidian - 1 Accuracy 0.52 on 50 Samples. 
+KNN - euclidian - 3 Accuracy 0.5 on 50 Samples. 
+KNN - euclidian - 5 Accuracy 0.48 on 50 Samples. 
+KNN - cosine - 1 Accuracy 0.76 on 50 Samples. 
+KNN - cosine - 3 Accuracy 0.78 on 50 Samples. 
+KNN - cosine - 5 Accuracy 0.72 on 50 Samples. 
